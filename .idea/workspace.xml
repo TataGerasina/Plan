@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6303c089-f0c8-4d59-a12d-81fcdd359ec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/page/LoginPageV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/page/TransferPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardToCardTransfer/src/test/java/ru/netology/web/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/data/SQLHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadline/src/test/java/ru/netology/test/DeadlineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker_v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker_v2/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker_v2/db-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker_v2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestModeInTheBank/src/test/java/ru/netology/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/page/LoginPageV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/page/TransferPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Transfer/src/test/java/ru/netology/web/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_new/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_new/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_new/db-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poster" beforeDir="false" afterPath="$PROJECT_DIR$/../Poster" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mbank/artifacts/app-mbank.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/BonusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/model/PurchaseItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/model/PurchaseItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/util/PriceAscComporator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/unit/util/PriceAscComporator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/unit/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/unit/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/unit/service/CartServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/unit/service/CartServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2k0ku1edQDJMRuWMorn4ZZHG7lz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6303c089-f0c8-4d59-a12d-81fcdd359ec2" name="Changes" comment="" />
+      <created>1713253425539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713253425539</updated>
+    </task>
+    <servers />
+  </component>
+</project>
