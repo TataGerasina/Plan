@@ -42,6 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../docker_new/db-api.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Poster" beforeDir="false" afterPath="$PROJECT_DIR$/../Poster" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" afterDir="false" />
@@ -60,7 +61,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
