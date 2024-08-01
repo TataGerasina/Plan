@@ -14,7 +14,7 @@
 **через кнопку «Каталог курсов» в верхней части страницы**
 [![image.png](https://i.postimg.cc/43r1WF6h/image.png)](https://postimg.cc/B8BD6pwq)
 
-### Сценарий № 1 "Попадаем на страницу профессии через каталог курсов вводя полное название профессии и нажимая на кнопку найти курс"(get to the profession page through the course catalog by entering the full name of the profession and clicking on the find course button):
+#### Сценарий № 1 "Попадаем на страницу профессии через каталог курсов вводя полное название профессии и нажимая на кнопку найти курс"(get to the profession page through the course catalog by entering the full name of the profession and clicking on the find course button):
 
 - переходим на страницу <https://netology.ru/>;
 - нажимаем на кнопку «Каталог курсов»;
@@ -22,7 +22,7 @@
 - нажимаем на кнопку «найти курс»;
 - нажать на карточку «инженер по тестированию» - оказаться на странице с формой заявки на обучение. 
 
-### Сценарий № 2 "Попадаем на страницу профессии через каталог курсов вводя полное название профессии и нажимая на сам курс в окне-подсказке"(get to the profession page through the course catalog by entering the full name of the profession and clicking on the course itself in the hint window):
+#### Сценарий № 2 "Попадаем на страницу профессии через каталог курсов вводя полное название профессии и нажимая на сам курс в окне-подсказке"(get to the profession page through the course catalog by entering the full name of the profession and clicking on the course itself in the hint window):
 
 - переходим на страницу <https://netology.ru/>;
 - нажимаем на кнопку «Каталог курсов»;

@@ -42,7 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../docker_new/db-api.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bonus/src/test/java/BonusTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BonusService/src/test/java/BonusSericeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Poster" beforeDir="false" afterPath="$PROJECT_DIR$/../Poster" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/AviaSouls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ticket/src/main/java/ru/netology/Ticket/Ticket/Ticket.java" afterDir="false" />
@@ -66,9 +66,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2k0ku1edQDJMRuWMorn4ZZHG7lz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,6 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Tatyana/IdeaProjects/Plan",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
